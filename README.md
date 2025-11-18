@@ -50,10 +50,14 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+![WhatsApp Image 2025-11-18 at 15 28 43_647d0c83](https://github.com/user-attachments/assets/76536f23-2b62-4d9d-9957-1d9de4579d99)
 
 
 GRAPH:
+![WhatsApp Image 2025-11-18 at 15 26 25_96f0d455](https://github.com/user-attachments/assets/0d3afe5a-4e1b-40b9-9394-677183910565)
 
 
 RESULT:
+![WhatsApp Image 2025-11-18 at 13 13 11_cc9e3a3f](https://github.com/user-attachments/assets/726d6fcd-103c-4d74-9d20-f485de7c7556)
+
 
